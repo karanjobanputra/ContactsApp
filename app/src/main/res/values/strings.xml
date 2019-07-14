@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contacts</string>
+
+    <string name="please_grant_permission">Please grant permission.</string>
+    <string name="no_application_found_to_handle">No application found which can send email.</string>
+    <string name="call">Call</string>
+    <string name="message">Message</string>
+
+</resources>
